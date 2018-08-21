@@ -1,4 +1,4 @@
-# BinarySpacePartitioning_TreeProcess
+# Binary Space Partitioning-Tree Process
 Implementation for Binary Space Partitioning-Tree Process Relational Model
 
 The Binary Space Partitioning-Tree Process. Xuhui Fan, Bin Li, Scott Sisson, Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics, PMLR 84:1859-1867, 2018. 
